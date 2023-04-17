@@ -15,3 +15,9 @@ April 15th: Finish the content of week 0 and week 1.
 April 16th: Finish the content of week 2 and week 3.
 
 April 17th: It's Monday, got a lot of other thing, so only week 4.
+
+April 18th: go through week 5 and 6 using the time of evening
+
+Arpil 19th: check out week 7
+
+april 20th: finish the whole lecture and made some little changes
