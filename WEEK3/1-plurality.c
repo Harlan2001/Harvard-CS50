@@ -10,7 +10,7 @@ typedef struct
 {
     string name;
     int votes;
-} candidate;
+} candidate;    
 
 // Array of candidates
 candidate candidates[MAX];
