@@ -60,14 +60,14 @@ int main(int argc, string argv[])
     {
         printf("Maximum number of voters is %i\n", MAX_VOTERS);
         return 3;
-    }
+        }
 
-    // Keep querying for votes
-    for (int i = 0; i < voter_count; i++)
-    {
+        // Keep querying for votes
+        for (int i = 0; i < voter_count; i++)
+        {
 
-        // Query for each rank
-        for (int j = 0; j < candidate_count; j++)
+            // Query for each rank
+            for (int j = 0; j < candidate_count; j++)
         {
             string name = get_string("Rank %i: ", j + 1);
 
