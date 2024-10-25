@@ -71,7 +71,7 @@ bool load(const char *dictionary)
 
 unsigned int size(void)
 {
-    return dict_size;
+    return dict_size; 
 }
 
 void free_nodes(node *cur)
