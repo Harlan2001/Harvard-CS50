@@ -51,7 +51,6 @@ int main(int argc, string argv[])
     {
         string name = get_string("Vote: ");
 
-        // Check for invalid vote
         if (!vote(name))
         {
             printf("Invalid vote.\n");
@@ -89,7 +88,7 @@ void print_winner(void)
             max = i;
         }
     }
-
+    //可能有多个人得到最高票数
     for (int i = 0; i < candidate_count; i++)
     {
         if (candidates[max].votes == candidates[i].votes)
