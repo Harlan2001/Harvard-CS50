@@ -53,4 +53,5 @@ typedef struct
     BYTE  rgbtBlue;
     BYTE  rgbtGreen;
     BYTE  rgbtRed;
-} __attribute__((__packed__)) RGBTRIPLE; // 添加分号
+} __attribute__((__packed__))
+RGBTRIPLE;
